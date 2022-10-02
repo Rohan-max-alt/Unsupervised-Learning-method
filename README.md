@@ -6,5 +6,10 @@ Here we have performed Clustering because the output is not known so to categori
 Please reffer kaggle code and take Datasets from kaggle because you might get free source of datasets.
 I have taken all the Datasets so far from kaggle website. 
 
+Here i have included 
+
+1. Hierarchical Clustering.
+2. K-means Clustering.
+
 Thank You!
 
